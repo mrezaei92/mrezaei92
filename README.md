@@ -4,14 +4,6 @@
   <img src="https://profile-counter.glitch.me/mrezaei92/count.svg" />
 </p>
 
-<a href="https://github.com/mrezaei92">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=mrezaei92&show_icons=truet&include_all_commits=True&hide=contribs" alt="mrezaei92's github stats" />
-</a>
-
-<a href="https://github.com/mrezaei92">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=mrezaei92&layout=compact" />
-</a>
 
 ###
 - Hi there, this is Mohammad Rezaei. I am a graduate from the Univeristy of Texas at Arlington (UTA).
