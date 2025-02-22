@@ -7,7 +7,7 @@
 
 ###
 - Hi there, this is Mohammad Rezaei. I am a graduate from the Univeristy of Texas at Arlington (UTA).
-- My research interests mainly Include Machine Learning, Computer Vision, Unsupervised Representation Learning, Self-Supervised Learning, Generative Models, Statistical Pattern Recognition, Reinforcement Learning
+- My research interests mainly include Deep Learning and its applications in Computer Vision and NLP
 - I am always open to collaboration, feel free to contact me at mohammad.rezaei92@gmail.com
 
  
